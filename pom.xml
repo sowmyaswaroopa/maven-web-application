@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>admin Releases Nexus Repository</name>
-	      <url>http://35.77.212.238:8081/repository/citibank-release/</url>
+	      <url>http://51.20.248.40:8081/repository/bibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin Releases Snapshot Nexus Repository </name>
-	      <url>http://35.77.212.238:8081/repository/citibank-snapshot/</url>
+	      <url>http://51.20.248.40:8081/repository/bibank-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
