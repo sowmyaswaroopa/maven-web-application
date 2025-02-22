@@ -96,7 +96,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin Releases Snapshot Nexus Repository </name>
-	      <url>http://51.20.181.148:8081/repository/bibank-release/</url>
+	      <url>http://51.20.181.148:8081/repository/bibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
