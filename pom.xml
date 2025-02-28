@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.48.105.250:9000/</sonar.host.url>
+		<sonar.host.url>http://51.20.190.122:9000/</sonar.host.url>
 		<sonar.login>squ_3af1176ae396dca6468fa385f6e3078499c296da</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -90,13 +90,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>admin Releases Nexus Repository</name>
-	      <url>http://51.20.52.162:8081/repository/bibank-release/</url>
+	      <url>http://13.51.233.216:8081/repository/bibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin Releases Snapshot Nexus Repository </name>
-	      <url>http://51.20.52.162:8081/repository/bibank-snapshot/</url>     
+	      <url>http://13.51.233.216:8081/repository/bibank-snapshot/</url>     
 	    </snapshotRepository>
 	    
 	</distributionManagement>
